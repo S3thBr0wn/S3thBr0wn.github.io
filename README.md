@@ -4,7 +4,7 @@ h1{
   
 }
 h2 {
-  text-align: right;
+  text-align: left;
 
 
 }
