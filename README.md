@@ -1,6 +1,5 @@
 <style> 
-h1{
-  text-align: center;
+
   .dropbtn {
     background-color: #4CAF50;
     color: white;
@@ -45,4 +44,4 @@ h1{
 }
 
 </style>
-<h1> presentation </h1>
+presentation
