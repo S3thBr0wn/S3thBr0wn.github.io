@@ -3,5 +3,4 @@ h1 {
   text-align: left, center
   
   }
-</style>
-<h1> presentation </h1>
+[presentation] (https://docs.google.com/presentation/d/1ppcfy_mQ0PRBWfNUuqLY4_iA_SY_bKQC9VbGBFE064w/edit#slide=id.p)
