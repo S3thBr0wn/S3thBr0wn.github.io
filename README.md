@@ -1,4 +1,5 @@
 <body style = "background-color:black">
+<font color="white">
 <style>
  body{
   text-align: center;
@@ -10,3 +11,4 @@
   [repos](https://github.com/S3thBr0wn?tab=repositories)
   [local host](https://10.183.1.9)
   
+  </font>
