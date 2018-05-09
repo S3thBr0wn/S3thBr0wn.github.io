@@ -1,13 +1,6 @@
-
-  [presentation](https://docs.google.com/presentation/d/1ppcfy_mQ0PRBWfNUuqLY4_iA_SY_bKQC9VbGBFE064w/edit#slide=id.p)
-  [repos](https://github.com/S3thBr0wn?tab=repositories)
-  [local host](https://10.183.1.9)
-  [wiki](https://github.com/S3thBr0wn/S3thBr0wn.github.io/wiki)
-
-<body style="background-color:black;">
 <style>
 .dropbtn {
-    background-color: #3498DB;
+    background-color: #ffffff;
     color: white;
     padding: 16px;
     font-size: 16px;
@@ -35,7 +28,7 @@
 }
 
 .dropdown-content a {
-    color: black;
+    color: white;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
@@ -63,3 +56,36 @@
   }
 }
 </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [presentation](https://docs.google.com/presentation/d/1ppcfy_mQ0PRBWfNUuqLY4_iA_SY_bKQC9VbGBFE064w/edit#slide=id.p)
+  [repos](https://github.com/S3thBr0wn?tab=repositories)
+  [local host](https://10.183.1.9)
+  [wiki](https://github.com/S3thBr0wn/S3thBr0wn.github.io/wiki)
+
+<body style="background-color:black;">
