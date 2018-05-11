@@ -8,7 +8,7 @@
   background-color: #f1f1f1;}
 li a {    
   display: block;    
-  color: #000;    
+  color: #fff;    
   padding: 8px 16px;    
   text-decoration: none;}
     color: white; 
