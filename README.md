@@ -29,6 +29,10 @@
   font-size: 4;
   
   }
+  div{
+  text-align: right;
+  text-align: top;
+ }
   </style>
   <div class="topnav">
   <a class="active" href="#home">Home</a>
