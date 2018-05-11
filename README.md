@@ -19,7 +19,7 @@
 }
   h1{
   
-  
+  text-underline: none;
   text-align: left;
   font-size: 9;
  }
