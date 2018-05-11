@@ -6,7 +6,7 @@
     text-decoration: underline;
 }
   a:link {
-    color: blue;
+    color: white;
     background-color: blue;
     text-decoration: none;
 }
