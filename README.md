@@ -3,7 +3,7 @@
   h1{
   
   
-  text-align:left;
+  text-align: center;
   font-size: 3;
   
   }
