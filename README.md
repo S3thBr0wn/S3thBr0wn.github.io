@@ -11,7 +11,7 @@
   body{
   text-align: center;
   font-size: 4;
-  font-color: "#ffff";
+  
   }
   </style>
   <font color="#ffff">
