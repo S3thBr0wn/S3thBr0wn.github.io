@@ -7,8 +7,8 @@
 }
   a:link {
     color: white;
-    background-color: blue;
-    text-decoration: none;
+    background-color: transparent;
+    text-decoration: italics;
 }
   a:visited {
     color: #00FFBC;
