@@ -1,12 +1,12 @@
 
 <style>
   a:hover {
-    color: red;
+    color: white;
     background-color: transparent;
     text-decoration: underline;
 }
   a:link {
-    color: red;
+    color: blue;
     background-color: red;
     text-decoration: none;
 }
