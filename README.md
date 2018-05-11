@@ -1,7 +1,7 @@
 
 <style>
   a:hover {
-    color: white;
+    color: green;
     background-color: transparent;
     text-decoration: underline;
 }
