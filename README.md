@@ -19,4 +19,3 @@
 <a href="https://github.com/S3thBr0wn?tab=repositories">repos</a>
   <a href="https://10.183.1.9">local host</a></font>
 <body style="background-color:black;">
-[[/home/seth/https/img/manhunt2.png|Manhunt]]
