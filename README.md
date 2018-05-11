@@ -11,7 +11,7 @@
     text-decoration: none;
 }
   a:visited {
-    color: violet;
+    color: white;
     background-color: transparent;
     text-decoration: none;
 }
