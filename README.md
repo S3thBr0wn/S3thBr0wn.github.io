@@ -11,7 +11,7 @@
     text-decoration: none;
 }
   a:visited {
-    color: black;
+    color: #00FFBC;
     background-color: transparent;
     text-decoration: none;
 }
