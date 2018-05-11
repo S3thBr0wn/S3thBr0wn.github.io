@@ -9,9 +9,10 @@ li a {   
   list-style-type: none;
   display: block;    
   color: #fff;    
-  padding: 8px 16px;    
-  text-decoration: none;}
-    color: white; 
+  padding: 0;    
+  text-decoration: none;
+ }
+    
   a:hover {
     color: blue;
     background-color: transparent;
