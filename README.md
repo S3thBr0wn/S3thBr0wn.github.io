@@ -10,6 +10,11 @@
     background-color: blue;
     text-decoration: none;
 }
+  a:visited {
+    color: violet;
+    background-color: transparent;
+    text-decoration: none;
+}
   h1{
   
   
