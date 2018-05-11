@@ -7,7 +7,7 @@
 }
   a:link {
     color: blue;
-    background-color: red;
+    background-color: blue;
     text-decoration: none;
 }
   h1{
