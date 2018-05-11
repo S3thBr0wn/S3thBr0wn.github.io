@@ -33,6 +33,6 @@
 <body style="background-color:black;">
  <ul>
 <li><a href="https://docs.google.com/presentation/d/1ppcfy_mQ0PRBWfNUuqLY4_iA_SY_bKQC9VbGBFE064w/edit#slide=id.p">presentation</a></li>
-  <li><a href="https://github.com/S3thBr0wn?tab=repositories">repos</a></li>
-  <li><a href="https://10.183.1.9">local host</a></li>
+  <a href="https://github.com/S3thBr0wn?tab=repositories">repos</a>
+  <a href="https://10.183.1.9">local host</a></li>
  </ul>
