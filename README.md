@@ -1,12 +1,12 @@
 
 <style>
   ul {    
-    list-style-type: none;  
+  list-style-type: none;  
   margin: 0;   
   padding: 0;    
-  width: 200px;    
-  background-color: #f1f1f1;}
+ }
 li a {    
+  list-style-type: none;
   display: block;    
   color: #fff;    
   padding: 8px 16px;    
