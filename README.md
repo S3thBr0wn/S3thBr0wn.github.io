@@ -1,4 +1,4 @@
-<center>
+
 <style>
   h1{
   
