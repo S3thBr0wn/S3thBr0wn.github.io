@@ -3,17 +3,17 @@
 
     
   a:hover {
-    color: blue;
+    color: white;
     background-color: transparent;
     text-decoration: underline;
 }
   a:link {
-    color: blue;
+    color: white;
     background-color: transparent;
     text-decoration: italics;
 }
   a:visited {
-    color: #00FFBC;
+    color: white;
     background-color: transparent;
     text-decoration: none;
 }
