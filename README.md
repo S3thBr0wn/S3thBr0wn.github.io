@@ -39,18 +39,9 @@
  }
   </style>
   <div class="topnav">
-  <a class="active" href="#home">Home</a>
+  <a class="active"> </a>
   <input type="text" placeholder="Search...">
   </div>
-  var quotes=new Array();
-quotes[0] = "All things will flow into the city";
-quotes[1] = "There is always a man, there is always a city";
-quotes[2] = "Time rots everything. Even hope.";
-
-var q = quotes.length;
-var whichquote=Math.round(Math.random()*(q-1));
-function showquote(){document.write(quotes[whichquote]);}
-showquote();
 
 <p> <body style="background-color:black;"><br>
 <a href="https://docs.google.com/presentation/d/1ppcfy_mQ0PRBWfNUuqLY4_iA_SY_bKQC9VbGBFE064w/edit#slide=id.p">presentation</a><br>
