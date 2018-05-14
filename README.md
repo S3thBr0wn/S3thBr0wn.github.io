@@ -39,7 +39,7 @@
   </style>
   <div class="topnav">
   <a class="active" href="#home">Home</a>
-  <input type="text" placeholder="Search page...">
+  <input type="text" placeholder="Search...">
   </div>
 <p> <body style="background-color:black;"><br>
 <a href="https://docs.google.com/presentation/d/1ppcfy_mQ0PRBWfNUuqLY4_iA_SY_bKQC9VbGBFE064w/edit#slide=id.p">presentation</a><br>
