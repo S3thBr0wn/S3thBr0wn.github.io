@@ -57,4 +57,4 @@ showquote();
    <a href="https://github.com/S3thBr0wn?tab=repositories">repos</a><br>
    <a href="https://10.183.1.9">local host</a><br>
   <a href="s3thlogs.github.io">Logs
-  <img src= '/
+
