@@ -49,4 +49,3 @@
    <a href="https://10.183.1.9">local host</a><br>
   <a href="s3thlogs.github.io">Logs</a><br>
   <a href="flagproblem.github.io">Flag Problem</a>
-  </p>
