@@ -1,7 +1,10 @@
-<header>flag problem </header>
+   <h1><a href="https://s3thbr0wn.github.io/">S3thBr0wn.github.io</a></h1>
+      
+
+      
 <style>
 
-    
+    
   a:hover {
     color: white;
     background-color: transparent;
@@ -38,11 +41,16 @@
   text-align: top;
  }
   </style>
-  <div class="topnav">
+
+<div class="topnav">
   <a class="active"> </a>
-  <input type="text" placeholder="Search...">
+  <input type="text" placeholder="Search..." />
   </div>
 
-<p> <body style="background-color:black;"><br>
-  Question:
-  What king lived in England and killed his wives because they couldn't give him a son?
+<p> <body style="background-color:black;"><br />
+
+   <a href="https://github.com/S3thBr0wn?tab=repositories">repos</a><br />
+   <a href="https://10.183.1.9">local host</a><br />
+  <a href="https://S3thBr0wn.github.io/flags"> flag </a>
+</body></p>
+
