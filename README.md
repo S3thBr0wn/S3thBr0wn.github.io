@@ -47,4 +47,4 @@
 
    <a href="https://github.com/S3thBr0wn?tab=repositories">repos</a><br>
    <a href="https://10.183.1.9">local host</a><br>
-  <a href="https://S3thBr0wn.github.io/flags"> flag </a>
+  <a href="https://github.com/S3thBr0wn/Kings_and_Queens/blob/master/index.html"> flag problem </a>
