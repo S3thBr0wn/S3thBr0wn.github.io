@@ -48,7 +48,7 @@
   </div>
 
 <p> <body style="background-color:black;"><br />
-   <p> Favorite movies: </p>
+   Favorite movies:
    
    <a href="https://github.com/S3thBr0wn?tab=repositories">repos</a><br />
 </body></p>
