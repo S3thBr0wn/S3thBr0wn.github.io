@@ -48,7 +48,7 @@
   </div>
 
 <p> <body style="background-color:black;"><br />
-   Favorite movies:
+   Favorite movies: <br />
    <a href="https://en.wikipedia.org/wiki/The_Shining_(film)">The Shining</a> <br />
    <a href="https://github.com/S3thBr0wn?tab=repositories">repos</a><br />
 </body></p>
