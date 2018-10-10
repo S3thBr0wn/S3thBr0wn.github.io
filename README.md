@@ -1,7 +1,10 @@
+   <h1><a href="https://s3thbr0wn.github.io/">S3thBr0wn.github.io</a></h1>
+      
 
+      
 <style>
 
-    
+    
   a:hover {
     color: white;
     background-color: transparent;
@@ -38,13 +41,15 @@
   text-align: top;
  }
   </style>
-  <div class="topnav">
+
+<div class="topnav">
   <a class="active"> </a>
-  <input type="text" placeholder="Search...">
+  <input type="text" placeholder="Search..." />
   </div>
 
-<p> <body style="background-color:black;"><br>
-
-   <a href="https://github.com/S3thBr0wn?tab=repositories">repos</a><br>
-   <a href="https://10.183.1.9">local host</a><br>
-  <a href="https://github.com/S3thBr0wn/Kings_and_Queens/blob/master/index.html"> flag problem </a>
+<p> <body style="background-color:black;"><br />
+   Favorite movies: <br />
+   <a href="https://en.wikipedia.org/wiki/The_Shining_(film)">The Shining</a> <br />
+   _____________________________________________________________________________________________________ <br />
+   <a href="https://github.com/S3thBr0wn?tab=repositories">repos</a><br />
+</body></p>
