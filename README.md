@@ -6,7 +6,7 @@
 
     
   a:hover {
-    color: white;
+    color: orange;
     background-color: transparent;
     text-decoration: underline;
 }
@@ -44,6 +44,6 @@
 
 <div class="topnav">
   <a class="active"> </a>
-  <input type="text" placeholder="Search..." />
+  <input type="text" placeholder="Search here" />
   </div>
 <p> there isn't anything here!!! But there will be "possible" updates soon!
