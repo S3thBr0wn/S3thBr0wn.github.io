@@ -1,4 +1,4 @@
-      <a href = "S3thBr0wn.github.io"> </a>
+
 <style>
 
     
@@ -45,8 +45,6 @@
   </div>
   
   
-<p> there isn't anything here!!! But there will be "possible" updates soon!</p> </br>
+<p> there isn't anything here!!! But there will be "possible" updates soon!</p>
 <p> Links: </p>
-   </br>
 <p> what files belong to what </p>
-   </br>
