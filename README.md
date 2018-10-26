@@ -1,6 +1,3 @@
-   <h1><a href="https://s3thbr0wn.github.io/">S3thBr0wn.github.io</a></h1>
-      
-
       
 <style>
 
@@ -48,6 +45,8 @@
   </div>
   
   
-<p> there isn't anything here!!! But there will be "possible" updates soon!</p>
+<p> there isn't anything here!!! But there will be "possible" updates soon!</p> </br>
 <p> Links: </p>
+   </br>
+<p> what files belong to what </p>
    </br>
