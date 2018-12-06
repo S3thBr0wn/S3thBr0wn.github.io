@@ -48,4 +48,4 @@
   
 <p> there isn't anything here!!! But there will be "possible" updates soon!</p>
 <p> Links: </p>
-<a href = " "> computer build
+<a href="https://computer-build-2018sdb.github.io/">computer build</a>
